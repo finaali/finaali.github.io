@@ -1,0 +1,18 @@
+.banner {
+    background: url(https://pbs.twimg.com/media/FdGsxm5aIAY1aGo.jpg:large)
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+}
+
+a.sosmed {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: rgb(216, 213, 213);
+    border-radius: 50%;
+    background-color:rgb(132, 133, 134);
+    line-height: 40px;
+}
